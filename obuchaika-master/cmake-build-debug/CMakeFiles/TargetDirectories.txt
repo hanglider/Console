@@ -1,0 +1,3 @@
+C:/IT/obuchaika-master/cmake-build-debug/CMakeFiles/obuchaika_master.dir
+C:/IT/obuchaika-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/IT/obuchaika-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
